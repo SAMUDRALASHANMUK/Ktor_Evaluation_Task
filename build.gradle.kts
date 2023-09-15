@@ -66,6 +66,4 @@ dependencies {
     implementation("ch.qos.logback:logback-classic:$logback_version")
     testImplementation("org.testng:testng:7.1.0")
 
-
-
 }

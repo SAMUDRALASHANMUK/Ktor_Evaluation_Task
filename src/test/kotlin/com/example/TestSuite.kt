@@ -1,7 +1,8 @@
 package com.example
 
 import RecentWatchlistDAOImplTest
-import ValidationTests
+
+import com.example.helperfunctions.ValidationTests
 import com.example.repository.UserDAOImplTest
 import com.example.repository.WatchlistDAOImplTest
 import com.example.services.RecentWatchlistServiceTest
